@@ -1,2 +1,2 @@
 zilliz/attu:v2.3.10
-nginx:stable-alpine-perl
+nginx/nginx:stable-alpine-perl
